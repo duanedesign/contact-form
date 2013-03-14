@@ -1,0 +1,91 @@
+/*Ronald Hinnen -PHP CSYS 2463 - 101*/
+
+body 
+{
+	background-color: #FFFFFF;
+    font-size: 11px;
+    font-family: Verdana, arial, SunSans-Regular, Sans-Serif;
+}
+
+
+p
+{
+    padding: 5px 5px 5px 5px;
+    margin: 0px;
+    color: #7A3100;
+}
+
+p.thick 
+{
+    font-weight:bold;
+}
+h1 
+{
+    color:#7A3100;
+}
+h1.thick; 
+{
+    font-weight:bold;
+}
+
+
+form .error label
+{
+	color: #900;
+}
+
+form .error input
+{
+	background-color: #900;
+	color: #fff;
+}
+
+table, td, th
+{
+    border:1px solid #7A3100;
+}
+th
+{
+    background-color:#7A3100;
+    color:white;
+}
+td
+{
+    vertical-align:bottom;
+    padding: 5px;
+}
+
+#submit
+{
+    background-color:#E60000;
+    color:white;
+}
+
+
+#center
+{
+    text-align:center;
+    
+}
+
+
+
+#message
+{
+    padding: 5px 15px;
+    margin: 0px;
+    font-weight:bold;
+    color: #FF0000
+
+}
+
+.header
+{
+    background-color:#7A3100;
+    color:#FFFFFF;
+    text-align:center;s
+    
+
+}
+
+
